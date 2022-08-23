@@ -1,7 +1,4 @@
-# Welcome to my GitHub Profile ❤️
-
 <p>
-  <br/> <br/>
   <img alt="Working" align="right" src="./img/working.gif">
 </p>
 <p align="center">
