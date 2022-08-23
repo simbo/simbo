@@ -5,9 +5,9 @@
   <img alt="Working" align="right" src="./img/working.gif">
 </p>
 <p align="center">
-  <br/> <br/>
+  <br/> <br/> <br/>
   <img alt="My Skills" src="https://skillicons.dev/icons?perline=7&theme=dark&i=nodejs,js,ts,html,pug,css,scss,angular,vue,react,nest,express,svg,reactivex,redux,webpack,jest,git,github,githubactions,vscode,markdown,regex,docker,bash,linux,ansible,mongodb,mysql,postgres,redis,php,nginx,aws,jenkins,raspberrypi,twitter,mastodon,codepen,stackoverflow,linkedin,discord" />
-  <br/> <br/> <br/> <br/> <br/>
+  <br/> <br/> <br/> <br/> <br/> <br/>
 </p>
 
 ---
