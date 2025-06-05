@@ -1,24 +1,14 @@
-<p>
-  <img alt="Working" align="right" src="./img/working.gif">
-</p>
 <p align="center">
-  <br/> <br/> <br/>
-  <img alt="My Skills" src="https://skillicons.dev/icons?perline=7&theme=dark&i=nodejs,js,ts,html,pug,css,scss,angular,vue,react,nest,express,svg,reactivex,redux,webpack,jest,git,github,githubactions,vscode,markdown,regex,docker,bash,linux,ansible,mongodb,mysql,postgres,redis,php,nginx,aws,jenkins,raspberrypi,twitter,mastodon,codepen,stackoverflow,linkedin,discord" />
-  <br/> <br/> <br/> <br/> <br/> <br/>
+  <img alt="" src="./img/my-kinda-place.gif" width="44.75%">
+  <img alt="" src="./img/i-do-tech.gif" width="25.17%">
+  <img alt="" src="./img/fine-hoover.gif" width="27.56%"><br>
+  <img alt="" src="./img/unicorn.gif" width="28.75%">
+  <img alt="" src="./img/console-cowboys.gif" width="28.84%">
+  <img alt="" src="./img/strategy.gif" width="40.15%"><br>
+  <img alt="" src="./img/howto.gif" width="29.34%">
+  <img alt="" src="./img/concentrate.gif" width="29.34%">
+  <img alt="" src="./img/expert.gif" width="39.12%"><br>
+  <img alt="" src="./img/it-depends.gif" width="29.65%">
+  <img alt="" src="./img/toni.gif" width="38.47%">
+  <img alt="" src="./img/coding.gif" width="29.65%">
 </p>
-
----
-
-<p align="center">
-  <img alt="I have fun customizing!" src="./img/customizing.svg" width="600" style="max-width: 100%;">
-</p>
-
-<p align="center">
-  <img src="https://i.giphy.com/RThN0hOS2GO4M.gif" />
-</p>
-
-<!--
-<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simbo&langs_count=10&layout=compact&count_private=true">
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=simbo&show_icons=true&count_private=true">
-<img alt="GitHub Stats" src="https://github-stats-alpha.vercel.app/api?username=simbo">
--->
